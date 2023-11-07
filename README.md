@@ -20,9 +20,9 @@
 # Portafolio de Marcos Salvatierra Barragan
 
 ## Datos Personales
-<div class="cube"></div> Nombre: Marcos Salvatierra Barragan
-<div class="cube"></div> Edad: 19 años
-<div class="cube"></div> Provincia: Badajoz
+<div class="cube"> Nombre: Marcos Salvatierra Barragan
+ Edad: 19 años
+ Provincia: Badajoz </div>
 
 ## Nivel de Estudios
 <div class="cube"></div> Educación Secundaria Obligatoria (ESO): 2017/2021
