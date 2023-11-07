@@ -23,7 +23,12 @@
 
 ## Hobbies
 - Deportes: Fútbol, MotoGP
-- Películas y Series
+- Películas
+  *MCU
+  *DCU
+- Series
+  *Stranger Things
+  *Riverdale
 
 ## Otros
 - Carnet de conducir
