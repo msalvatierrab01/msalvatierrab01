@@ -6,6 +6,13 @@
     background-color: #f0f0f0; /* Cambia este valor al color de fondo que desees */
     padding: 20px;
   }
+  .cube {
+    width: 50px; /* Cambia el tamaño del cubo según tus preferencias */
+    height: 50px;
+    display: inline-block;
+    background-color: #3498db; /* Cambia el color del cubo según tus preferencias */
+    margin-right: 10px; /* Espacio entre los cubos y el texto */
+  }
 </style>
 </head>
 <body>
@@ -13,27 +20,23 @@
 # Portafolio de Marcos Salvatierra Barragan
 
 ## Datos Personales
-- Nombre: Marcos Salvatierra Barragan
-- Edad: 19 años
-- Provincia: Badajoz
+<div class="cube"></div> Nombre: Marcos Salvatierra Barragan
+<div class="cube"></div> Edad: 19 años
+<div class="cube"></div> Provincia: Badajoz
 
 ## Nivel de Estudios
-- Educación Secundaria Obligatoria (ESO): 2017/2021
-- Sistemas Microinformáticos y Redes (SMR): 2021/2023
+<div class="cube"></div> Educación Secundaria Obligatoria (ESO): 2017/2021
+<div class="cube"></div> Sistemas Microinformáticos y Redes (SMR): 2021/2023
 
 ## Hobbies
-- Deportes: Fútbol, MotoGP
-- Películas
-  MCU
-  DCU
-- Series
-  Stranger Things
-  Riverdale
+<div class="cube"></div> Deportes: Fútbol, MotoGP
+<div class="cube"></div> Películas y Series
 
 ## Otros
-- Carnet de conducir
-- Disponibilidad para cualquier trabajo
+<div class="cube"></div> Carnet de conducir
+<div class="cube"></div> Disponibilidad para cualquier trabajo
 
 </body>
 </html>
+
 
