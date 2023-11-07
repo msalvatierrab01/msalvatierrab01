@@ -1,16 +1,34 @@
-### Hi there 👋
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+  body {
+    background-color: #f0f0f0; /* Cambia este valor al color de fondo que desees */
+    padding: 20px;
+  }
+</style>
+</head>
+<body>
 
-<!--
-**msalvatierrab01/msalvatierrab01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Portafolio de Marcos Salvatierra Barragan
 
-Here are some ideas to get you started:
+## Datos Personales
+- Nombre: Marcos Salvatierra Barragan
+- Edad: 19 años
+- Provincia: Badajoz
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Nivel de Estudios
+- Educación Secundaria Obligatoria (ESO): 2017/2021
+- Sistemas Microinformáticos y Redes (SMR): 2021/2023
+
+## Hobbies
+- Deportes: Fútbol, MotoGP
+- Películas y Series
+
+## Otros
+- Carnet de conducir
+- Disponibilidad para cualquier trabajo
+
+</body>
+</html>
+
