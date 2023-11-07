@@ -2,10 +2,7 @@
 <html>
 <head>
 <style>
-  body {
-    background-color: #f0f0f0; /* Cambia este valor al color de fondo que desees */
-    padding: 20px;
-  }
+ 
 </style>
 </head>
 <body>
