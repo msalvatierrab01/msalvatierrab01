@@ -22,7 +22,6 @@
 
 ## Otros
 - Carnet de conducir
-- Disponibilidad para cualquier trabajo
-
+- experiencia en pagina web con html y css
 </body>
 </html>
