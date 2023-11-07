@@ -24,11 +24,11 @@
 ## Hobbies
 - Deportes: Fútbol, MotoGP
 - Películas
-  *MCU
-  *DCU
+  MCU
+  DCU
 - Series
-  *Stranger Things
-  *Riverdale
+  Stranger Things
+  Riverdale
 
 ## Otros
 - Carnet de conducir
