@@ -1,4 +1,4 @@
 # Portafolio de Marcos Salvatierra Barragan
-<center><img src="portafolio.png" height="150px">
+<img src="portafolio.png" height="150px"aling="center">
 
 
