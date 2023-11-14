@@ -9,10 +9,10 @@ PROXIMAMENTE....
 <img src="https://i.etsystatic.com/32887768/r/il/528684/3732159293/il_1080xN.3732159293_61i5.jpg" width="500"/>
 
 
-![Imagen]([https://i.etsystatic.com/32887768/r/il/528684/3732159293/il_1080xN.3732159293_61i5.jpg](https://drive.google.com/file/d/11lxTwVHgkjAzqVxFOLBol5lHN5oG3fQ6/view?usp=sharing)https://drive.google.com/file/d/11lxTwVHgkjAzqVxFOLBol5lHN5oG3fQ6/view?usp=sharing)
+![Imagen]([/drive.google.com/file/d/11lxTwVHgkjAzqVxFOLBol5lHN5oG3fQ6/view?usp=sharing]
 
 
-<img src="[https://i.etsystatic.com/32887768/r/il/528684/3732159293/il_1080xN.3732159293_61i5.jpg](https://drive.google.com/file/d/11lxTwVHgkjAzqVxFOLBol5lHN5oG3fQ6/view?usp=sharing)https://drive.google.com/file/d/11lxTwVHgkjAzqVxFOLBol5lHN5oG3fQ6/view?usp=sharing" width="500"/>
+
 
 
 
