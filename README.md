@@ -1,4 +1,8 @@
-# Portafolio de Marcos Salvatierra Barragan
-<img src="portafolio.png" height="250px">
+# Mi Portafolio
+
+¡Hola! Soy [Marcos], un apasionado desarrollador. Este es mi portafolio donde puedes encontrar algunos de mis proyectos 
+
+![](https://drive.google.com/file/d/11lxTwVHgkjAzqVxFOLBol5lHN5oG3fQ6/view?usp=sharing)
 
 
+## Proyectos Destacados
